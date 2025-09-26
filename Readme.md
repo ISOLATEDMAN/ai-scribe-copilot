@@ -322,12 +322,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team & Acknowledgments
 
-Built with ❤️ by developers who understand that **healthcare technology must be bulletproof**.
+Built with ❤️ by Kartikeya who understand that **healthcare technology must be bulletproof**.
 
-Special thanks to:
-- Medical professionals who provided real-world requirements
-- Flutter and Node.js communities for excellent documentation
-- Google Cloud team for robust AI services
+ - Assignment work
 
 ---
 
