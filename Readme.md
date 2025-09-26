@@ -198,6 +198,23 @@ sequenceDiagram
 
 ---
 
+## 🎥 Live Demos
+
+### 📱 See MediNote in Action
+
+<div align="center">
+
+| Platform | Demo Link | Description |
+|----------|-----------|-------------|
+| **🤖 Android** | [📱 APK Demo](https://drive.google.com/file/d/1xhFSDI0I1dlaFNy2xfgin4nbq2MVPDt4/view?usp=sharing) | Download and test the Android app |
+| **🍎 iOS** | [🎬 Video Demo](https://www.loom.com/share/6d15efaac6a3496e9d7a8e8644e35aa0?sid=6981bc92-5867-4d68-8238-d298a6dd737d) | Watch MediNote running on iOS |
+
+</div>
+
+> **📝 Note:** The demos showcase real-time transcription, patient management, and interruption handling in action. Perfect for seeing how MediNote handles real-world medical scenarios!
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
