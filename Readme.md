@@ -320,7 +320,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team & Acknowledgments
+## 👥 Acknowledgments
 
 Built with ❤️ by Kartikeya who understand that **healthcare technology must be bulletproof**.
 
