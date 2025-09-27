@@ -126,8 +126,7 @@ lib/
    - Create a `.env` file in the root directory
    - Add necessary environment variables:
      ```env
-     API_BASE_URL=your_api_base_url
-     API_KEY=your_api_key
+     BASE_API=your_api_base_url
      ```
 
 4. **Run the application**
